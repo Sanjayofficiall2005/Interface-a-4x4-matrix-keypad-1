@@ -8,9 +8,12 @@ STM32 CUBE IDE, Proteus 8 simulator .
 
 ## Keypad layout
 ![Keypad](https://github.com/Sripriya-Ranganathan/Interfacing-4x4-matrix-keypad/assets/139522903/b66a0414-4590-41d0-bb83-48588ee380b9)
+![image](https://github.com/user-attachments/assets/c24e7e27-7b0f-4904-becd-307fbf7dcba8)
+
 
 ## CIRCUIT DIAGRAM 
- 
+![image](https://github.com/user-attachments/assets/596c321a-9baf-477b-beec-5244738afbf8)
+
 ## Program
 ### Header files
 #include "main.h"
@@ -126,6 +129,7 @@ int main(void)
 }
 
 ## Output screen shots of proteus
+![image](https://github.com/user-attachments/assets/d694bfa1-a722-4ec9-bd43-8893c3e5518c)
 
 ## Result :
-Interfaced a 4x4 matrix keypad with ARM microcontroller and displayed the output on 16X2 LCD for arithmetic operation in simulation.
+Thus,Interfaced a 4x4 matrix keypad with ARM microcontroller and displayed the output on 16X2 LCD in simulation successfully.
